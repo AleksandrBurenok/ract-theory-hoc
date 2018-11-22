@@ -8,7 +8,7 @@ function createAddNumber(number) {
 
 const addOne = createAddNumber(1);
 
-const addFive = createAddNumber(6);
+const addFive = createAddNumber(7);
 
 console.log(addOne(numbers));
 console.log(addFive(numbers));
